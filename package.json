@@ -1,0 +1,27 @@
+{
+  "name": "graph-ql",
+  "version": "1.0.0",
+  "description": "目前理解 可以称作 dataScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeozyl80/graphQl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freeozyl80/graphQl/issues"
+  },
+  "homepage": "https://github.com/freeozyl80/graphQl#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-register": "^6.23.0",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "graphql": "^0.9.1"
+  }
+}
